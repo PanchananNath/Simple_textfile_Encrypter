@@ -1,2 +1,2 @@
-nathpanchanan98@gmail.com
-password
+username: testmail@gmail.com
+password: pwd@123
