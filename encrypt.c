@@ -1,4 +1,4 @@
-/*Program to Encrypt a text File*/
+/* C Program to Encrypt a text File*/
 
 #include<stdio.h>
 int main()
@@ -36,6 +36,6 @@ int main()
     }
     fclose(fps);
     fclose(fpt);
-    printf("\nFile %s Encrypted Successfully!", fname);
+    printf("Encryption process on File %s is Successfully!", fname);
         return 0;
 }
