@@ -1,4 +1,4 @@
-/*Program to Decrypt the encrypted  File*/
+/* C Program to Decrypt the encrypted / cipher  File*/
 
 
 #include<stdio.h>
